@@ -174,7 +174,7 @@
         All course content will be presented using a series of instructor-created videos, posted to YouTube and available through MyOpenMath. 
         The videos will provide all relevant definitions, technique descriptions, and completely worked-out examples. 
         The videos in each unit will typically have a combined run time of around an hour (though this might vary a bit from unit to unit); 
-        most individual videos will be 10--12 minutes in length. You should take notes on the videos, just as you would in a lecture-based course, 
+        most individual videos will be 10-12 minutes in length. You should take notes on the videos, just as you would in a lecture-based course, 
         and use these notes when completing the problem sets and preparing for quizzes and exams. 
       </p>
     </paragraphs>
@@ -188,7 +188,7 @@
         Your score on each set will be considered as a percent and each set will be weighted equally when computing your problem set grade. 
         No problem set scores will be dropped. 
         The problem sets are set up so you can try most problems two times, then the correct answer will be shown. 
-        If you miss a problem and want to improve your score, you can click the 'Try a similar problem'' link, which will give you a new question of the same type. 
+        If you miss a problem and want to improve your score, you can click the 'Try a similar problem' link, which will give you a new question of the same type. 
         You can keep on working on versions of a question until you get it correct. 
         Each problem set will contain a few problems in which you will need to submit a worked out solution to a problem; 
         these problems will have only one attempt and answers will not be available until after the due date has passed. 
@@ -237,12 +237,12 @@
       <ul>
         <li>
           <p>
-            The midterm will be on Friday, June 12, 9:00am--11:00am. 
+            The midterm will be on Friday, June 12, 9:00am-11:00am. 
           </p>
         </li>
         <li>
           <p>
-            The cumulative final exam will be on Tuesday, June 30, 9:00am--12:00pm. 
+            The cumulative final exam will be on Tuesday, June 30, 9:00am-12:00pm. 
           </p>
         </li>
       </ul>
@@ -289,7 +289,7 @@
       <p>
         Letter grades will be assigned as follows. Grades will not be curved or rounded.
       </p>
-      <tabular>
+      <tabular bottom="medium">
         <row header="yes">
             <cell>Letter Grade</cell>
             <cell>Percent Needed</cell>
@@ -626,7 +626,7 @@
       <row>
         <cell>June 29</cell>
         <cell>
-          <line>Quiz 5:  Units 9 and 10 (due Monday 6/29)</line>
+          <line>Quiz 5:  Units 9 and 10 (due Mon 6/29)</line>
           <line></line>
           <line><alert>Final Exam</alert> </line>
           <line>9:00am - 12:00pm, Sullivan 136</line>
